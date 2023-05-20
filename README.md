@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 Welcome to my GitHub profile! I'm Ajith P. Kumar, Frontend Developer and an aspiring Full-Stack Web Developer excited about learning and creating awesome projects. I believe in the power of curiosity and continuous growth. Feel free to explore my repositories and join me on this coding journey!
 
@@ -43,7 +43,8 @@ Welcome to my GitHub profile! I'm Ajith P. Kumar, Frontend Developer and an aspi
 <br>
 
 <h3 align="left">My github stats: </h3>
-<br>
+
+
 [![JOSHI's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOSHI-owo)](https://github.com/JOSHI-owo/github-readme-stats)
 
 
