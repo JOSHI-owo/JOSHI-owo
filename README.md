@@ -2,7 +2,12 @@
 
 Welcome to my GitHub profile! I'm Ajith P. Kumar, a web developer excited about learning and creating awesome projects. I believe in the power of curiosity and continuous growth. Feel free to explore my repositories and join me on this coding journey!
 
+![banner](https://user-images.githubusercontent.com/74407205/231990386-c5d1c57e-da3d-467e-9d66-0614fe7a72c2.png)
+<img src="images/Ajith github banner edited.png" width="100%" height="8px"/>
+
 [![JOSHI's GitHub stats](https://github-readme-stats.vercel.app/api?username=JOSHI-owo)](https://github.com/JOSHI-owo/github-readme-stats)
+
+
 <!--
 **JOSHI-owo/JOSHI-owo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
